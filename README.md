@@ -16,9 +16,9 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-grey?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-grey?style=for-the-badge&logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript) ![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c) ![C++](https://img.shields.io/badge/C++-grey?style=for-the-badge&logo=cplusplus)
+![HTML5](https://img.shields.io/badge/HTML5-grey?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-grey?style=for-the-badge&logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript) ![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=typescript) ![Angular.JS](https://img.shields.io/badge/Angular.JS-grey?style=for-the-badge&logo=angular) ![Angular](https://img.shields.io/badge/Angular-grey?style=for-the-badge&logo=angular)
+![C++](https://img.shields.io/badge/C++-grey?style=for-the-badge&logo=cplusplus) ![TypeScript](https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=typescript) ![Angular.JS](https://img.shields.io/badge/Angular.JS-grey?style=for-the-badge&logo=angular) ![Angular](https://img.shields.io/badge/Angular-grey?style=for-the-badge&logo=angular)
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="60px" height="50px"> About Some Stats
 <div align="center">
