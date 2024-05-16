@@ -4,7 +4,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> Hi there!!!
 
-- :credit_card: My full name is **Nguyễn Duy Thành** <img src="https://f8n-production.s3.amazonaws.com/creators/profile/c8gley51s-nyan-cat-large-gif-gif-mbf1sa.gif" width="400" align="right"/>
+- :credit_card: My full name is **Nguyễn Duy Thành** <img src="" width="400" align="right"/>
 - :school: I'm student from **Thuy Loi University**
 - :books: My major is **Information Technology**
 - :earth_asia: I'm living now in **Hà Nội City, Viet Nam**
