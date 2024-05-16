@@ -4,8 +4,6 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> Hi there!!!
 
-![Duy-Thanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Duy-Thanh&show_icons=true&theme=transparent)
-
 - :credit_card: My full name is **Nguyễn Duy Thành** <img src="https://f8n-production.s3.amazonaws.com/creators/profile/c8gley51s-nyan-cat-large-gif-gif-mbf1sa.gif" width="400" align="right"/>
 - :school: I'm student from **Thuy Loi University**
 - :books: My major is **Information Technology**
@@ -21,3 +19,14 @@
 ![HTML5](https://img.shields.io/badge/HTML5-grey?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-grey?style=for-the-badge&logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript) ![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c) ![C++](https://img.shields.io/badge/C++-grey?style=for-the-badge&logo=cplusplus)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=typescript) ![Angular.JS](https://img.shields.io/badge/Angular.JS-grey?style=for-the-badge&logo=angular) ![Angular](https://img.shields.io/badge/Angular-grey?style=for-the-badge&logo=angular)
+
+## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="60px" height="50px"> About Some Stats
+<div align="center">
+![Duy-Thanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Duy-Thanh&show_icons=true&theme=transparent)
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lampnthe173556&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
+</div>
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=lampnthe173556&theme=algolia&background=0d1117&hide_border=true" />
+  <!-- <img src="https://activity-graph.herokuapp.com/graph?username=lampnthe173556&theme=react-dark"/> -->
+  <!-- <img src="https://peaceful-beyond-61134.herokuapp.com/graph?username=lampnthe173556&theme=react-dark"/> -->
+</div>
