@@ -1,3 +1,7 @@
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&pause=1000&random=false&width=435&lines=Hey!!!+I'm+Duy+Thanh+%3C3;I'm+Intern+Developer;Welcome+to+my+profile+%3C3" alt="Typing SVG" /></a>
+</div>
+
 ### Hi there 👋
 
 ![Duy-Thanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Duy-Thanh&show_icons=true&theme=transparent)
