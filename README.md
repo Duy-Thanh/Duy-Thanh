@@ -26,7 +26,6 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duy-Thanh&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
 </div>
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=lampnthe173556&theme=algolia&background=0d1117&hide_border=true" />
-  <!-- <img src="https://activity-graph.herokuapp.com/graph?username=lampnthe173556&theme=react-dark"/> -->
-  <!-- <img src="https://peaceful-beyond-61134.herokuapp.com/graph?username=lampnthe173556&theme=react-dark"/> -->
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Duy-Thanh&theme=algolia&background=0d1117&hide_border=true" />
 </div>
+
