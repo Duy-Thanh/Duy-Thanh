@@ -4,7 +4,9 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> Hi there!!!
 
-- :credit_card: My full name is **Nguyễn Duy Thành** <img src="https://dictionary.cyberblog.click/assets/Reddit-https---preview.redd.it-al7fctyptvf31.gif.formatmp4s0741b39dbba6c66da11d8f2f785279fffcb55b84-ezgif.com-video-to-gif-converter.gif" width="400" align="right"/>
+ <img src="https://dictionary.cyberblog.click/assets/Reddit-https---preview.redd.it-al7fctyptvf31.gif.formatmp4s0741b39dbba6c66da11d8f2f785279fffcb55b84-ezgif.com-video-to-gif-converter.gif"/>
+
+- :credit_card: My full name is **Nguyễn Duy Thành**
 - :school: I'm student from **Thuy Loi University**
 - :books: My major is **Information Technology**
 - :earth_asia: I'm living now in **Hà Nội City, Viet Nam**
