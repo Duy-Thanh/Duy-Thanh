@@ -31,6 +31,10 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Duy-Thanh&theme=algolia&background=0d1117&hide_border=true" />
 </div>
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Duy-Thanh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" height="40px"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
   <a href="mailto:thanhdz167@gmail.com" >
