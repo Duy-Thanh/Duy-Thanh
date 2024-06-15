@@ -5,7 +5,6 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> Hi there!!!
 
 ![](https://cyberblog.click/api/badge/thanhdz167/interval:today?label=today) ![](https://cyberblog.click/api/badge/thanhdz167/thanhdz167/interval:30_days?label=last+30d) ![](https://img.shields.io/endpoint?url=https://cyberblog.click/api/compat/shields/v1/thanhdz167/interval:30_days&label=last+30d)
-
  <img src="https://dictionary.cyberblog.click/assets/Reddit-https---preview.redd.it-al7fctyptvf31.gif.formatmp4s0741b39dbba6c66da11d8f2f785279fffcb55b84-ezgif.com-video-to-gif-converter.gif"/>
 
 - :credit_card: My full name is **Nguyễn Duy Thành**
@@ -58,6 +57,5 @@
   <a href="https://github.com/Duy-Thanh" target="_blank">
     <img align="center" alt="Duy-Thanh | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
-  
-
 <p>
+
