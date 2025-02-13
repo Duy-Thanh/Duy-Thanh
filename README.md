@@ -1,16 +1,8 @@
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=50&pause=1000&center=true&vCenter=true&random=false&width=600&height=80&lines=Hey!!!+I'm+Duy+Thanh+%3C3;I'm+Intern+Developer;Welcome+to+my+profile+%3C3" alt="Typing SVG" /></a>
-</div>
-
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> Hi there!!!
 
 ![](https://cyberblog.click/api/badge/thanhdz167/interval:today?label=today) ![](https://cyberblog.click/api/badge/thanhdz167/thanhdz167/interval:30_days?label=last+30d) ![](https://img.shields.io/endpoint?url=https://cyberblog.click/api/compat/shields/v1/thanhdz167/interval:30_days&label=last+30d)
  <img src="https://dictionary.cyberblog.click/assets/Reddit-https---preview.redd.it-al7fctyptvf31.gif.formatmp4s0741b39dbba6c66da11d8f2f785279fffcb55b84-ezgif.com-video-to-gif-converter.gif"/>
 
-- :credit_card: My full name is **Nguyễn Duy Thành**
-- :school: I'm student from **Thuy Loi University**
-- :books: My major is **Information Technology**
-- :earth_asia: I'm living now in **Hà Nội City, Viet Nam**
 - :sweat_smile: I'm a newbie in coding :penguin:
 - :monocle_face: I like to write code, reverse software, analyze malware and sometimes I also write malware
 
@@ -40,14 +32,6 @@
 <p align="center">
   <a href="mailto:thanhdz167@gmail.com" >
     <img align="center" alt="DuyThanh | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://www.facebook.com/thanhduy230604/" target="_blank">
-      <img align="center" alt="DuyThanh | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://www.instagram.com/thanhduy230604/" target="_blank">
-    <img align="center" alt="DuyThanh | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
   
   <a href="https://github.com/Duy-Thanh" target="_blank">
