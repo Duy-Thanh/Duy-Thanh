@@ -5,6 +5,7 @@
 
 - :monocle_face: I like to write code, reverse software, analyze malware and sometimes I also write malware
 - :monocle_face: I love blogging, and translating stories
+- :monocle_face: I previously worked at AppsTeam and developed Android applications for ChainZ, a Samsung R&D company
 - :monocle_face: I am currently working as AppsTeam and developing Android applications for ChainZ, a subsidiary of Samsung R&D
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
