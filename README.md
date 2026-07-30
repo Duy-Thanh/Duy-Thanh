@@ -9,7 +9,7 @@
 - :monocle_face: I am currently working as a full-time intern specializing in Linux server deployment at VNPAY
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-purple?style=for-the-badge&logo=fortran)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c) ![C++](https://img.shields.io/badge/C++-grey?style=for-the-badge&logo=cplusplus) ![Assembly](https://img.shields.io/badge/Assembly-orange?style=for-the-badge&logo=assembly) ![Pascal](https://img.shields.io/badge/Pascal-gray?style=for-the-badge&logo=pascal)
